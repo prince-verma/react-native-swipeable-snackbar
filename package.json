@@ -1,8 +1,8 @@
 {
   "name": "react-native-swipeable-snackbar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provide snackbar from top or bottom, as per requirements. Its a simple React-native library, works for both Android and IOS. It also provide swipe feature to hide snackbar.",
-  "main": "snackBar.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -73,7 +73,7 @@ export const showSnackBar = (data = {}) => {
   });
 };
 
-export class SnackBar extends PureComponent {
+export default class SnackBar extends PureComponent {
   static propTypes = {
     id: PropTypes.string,
     position: PropTypes.string,
@@ -337,5 +337,3 @@ export class SnackBar extends PureComponent {
     return null;
   }
 }
-
-export default SnackBar;
