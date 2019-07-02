@@ -28,7 +28,7 @@ yarn add react-native-swipeable-snackbar
 
 ### Implementation and Usage
 ```
-import Snackbar from 'react-native-swipeable-snackbar';
+import SnackBar from 'react-native-swipeable-snackbar';
 
 <View style={{flxe:1}}>
     {/*...........Root App code.......*/}
